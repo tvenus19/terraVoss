@@ -1,2 +1,2 @@
 # terraVoss
-Terraform pracice
+Terraform practice
